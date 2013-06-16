@@ -16,3 +16,4 @@ var total = sqft * 4;
 console.log("The total square footage of" + " " + name + "'s " + "building is" + " " + total+ "ft. squared");
 alert(total + " " + " pieces is of wood, is the amount you'll be able to fit into the" + " " + sqft + "ft. squared building.");
 console.log(name + " " + "will need" + " " + total + " " + "pieces of wood for their building");
+
