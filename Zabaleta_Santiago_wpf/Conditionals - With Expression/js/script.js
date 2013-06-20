@@ -11,6 +11,7 @@ if(kidHeight > minHeight){
     //code performed if condition is true
     console.log("You can ride the Coaster!");
 }
-if(kidHeight <= minHeight){
+else{
+    //code performed if condition is flase
     console.log("Sorry kid, you've got some growing to do first!");
 }
