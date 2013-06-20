@@ -4,6 +4,20 @@
 
 // Group 2: Check the Login
 
+var userName = prompt("Please Enter your user name below:");
+var adminName = "Johnnyappleseed";
+(userName == adminName) ? console.log("Captured Username") : console.log("User not found. Try again.");
+var adminPass = "sh823e7yd7wowiudc";
+if(userName == false){
+    console.log("Enter password");
+}else if (userPass == adminPass){
+
+}
+var userPass = prompt("Enter User password below:");
+if (userPass == adminPass){
+    console.log("Welcome " + userName);
+}
+
 
 // Group 3: Movie Ticket Price
 
