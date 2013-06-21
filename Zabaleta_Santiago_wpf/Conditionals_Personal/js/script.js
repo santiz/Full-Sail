@@ -10,13 +10,15 @@ if(ask == gymYes){
     console.log("User stated that he does want to go to the gym"); //If he agrees to go to the gym
 }else if(ask == gymNo){
     alert("Well keep sleeping you laz bum!")
-    console.log("User has stated that he does not want to go to the gym"); //If the user does not want to go, gets threatening message :)
-}if(ask ==gymYes){
+    console.log("User will stay in because he's a lazy bum."); //If the user does not want to go, gets threatening message :)
+}if(ask == gymYes){
     var legs = "Legs";
     var bis = "Bis"
     var back = "Back"
     var typeMus = prompt("Last time you did shoulders, today, will you do?(Legs, Bis, Back");
-}if(typeMus == legs || typeMus == bis || typeMus == back){
-    console.log("Today the user has stated he will do " + typeMus);
+}else if(ask == gymNo){
+    console.log("Today the user has stated he will do nothing");
+}else if(gymYes == ask){
+    console.log(typeMus == back);
 }
 
