@@ -12,13 +12,8 @@ if(ask == gymYes){
     alert("Well keep sleeping you laz bum!")
     console.log("User will stay in because he's a lazy bum."); //If the user does not want to go, gets threatening message :)
 }if(ask == gymYes){
-    var legs = "Legs";
-    var bis = "Bis"
-    var back = "Back"
-    var typeMus = prompt("Last time you did shoulders, today, will you do?(Legs, Bis, Back");
+    var typeMus = prompt("Will you do 50 reps in 3 sets, or 100 reps for 5 sets?");
 }else if(ask == gymNo){
     console.log("Today the user has stated he will do nothing");
-}else if(gymYes == ask){
-    console.log(typeMus == back);
 }
 
