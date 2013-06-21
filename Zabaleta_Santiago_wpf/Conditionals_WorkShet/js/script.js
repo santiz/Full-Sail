@@ -2,6 +2,29 @@
 
 // Group 1: Celsius to Fahrenheit converter
 
+var userUnit = prompt("Please enter a unit of Temperature:\nC for Celsius\nF for Fahrenheit");
+var degFahren = "F";
+var degCel = "C";
+
+if(userUnit == degFahren){
+    //user has inputted F for Fahrenheit
+    console.log("User has inputted Fahrenheit as their unit of Temperature");
+}else if(userUnit == degCel){
+    //User unit is Celsius
+    console.log("User has inputted Celsius as their unit of Temperature.");
+}
+var tempAmtF = prompt("Please input the Temperature amount you want to convert below:");
+var celCalc = 5 / 9 * (tempAmtF - 32);
+
+if (userUnit == degFahren){
+    alert(tempAmtF + " degrees in Fahrenheit is " + celCalc + " degrees Celsius.");
+}else if(userUnit == degCel)
+    var tempAmtC = prompt("Please input the Temperature amount you want to convert below:");
+var fahrCalc = (9 / 5) * tempAmtC + 32;{
+    alert(tempAmtC + " degrees in Celsius is " + fahrCalc + " degrees Fahrenheit.")
+}
+
+
 // Group 2: Check the Login
 
 var userName = prompt("Please Enter your user name below:");
