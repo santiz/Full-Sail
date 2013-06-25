@@ -4,7 +4,7 @@
     <list default="true" id="90d71b1b-a0e2-4292-940d-d47e6741cdb3" name="Default" comment="" />
     <ignored path="Functions - Parameters and Arguments.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/script.js" changelist="90d71b1b-a0e2-4292-940d-d47e6741cdb3" time="1372121137334" ignored="false" />
+    <file path="/script.js" changelist="90d71b1b-a0e2-4292-940d-d47e6741cdb3" time="1372121531446" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="37" selection-start="94" selection-end="94" vertical-scroll-proportion="-0.21621622">
+            <state line="8" column="27" selection-start="206" selection-end="206" vertical-scroll-proportion="0.13513513">
               <folding />
             </state>
           </provider>
@@ -220,7 +220,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="37" selection-start="94" selection-end="94" vertical-scroll-proportion="-0.21621622">
+        <state line="8" column="27" selection-start="206" selection-end="206" vertical-scroll-proportion="0.13513513">
           <folding />
         </state>
       </provider>
