@@ -14,3 +14,4 @@ function calcArea(){
 }
 
 calcArea();
+console.log(width);
