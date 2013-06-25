@@ -1,9 +1,9 @@
 //Functions - Returning Values
 
-calcArea(30,20);
+var total = calcArea(30,20);
 
 function calcArea(w, h){
     var area = w * h;
-    return area;
+    return area; //function spitting the info out
 }
-console.log(area);
+console.log(total);
