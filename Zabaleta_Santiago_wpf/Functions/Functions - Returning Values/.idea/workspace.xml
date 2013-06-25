@@ -4,7 +4,7 @@
     <list default="true" id="f5ac94fb-36c4-4e93-b802-e6cfbbd99c28" name="Default" comment="" />
     <ignored path="Functions - Returning Values.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/script.js" changelist="f5ac94fb-36c4-4e93-b802-e6cfbbd99c28" time="1372121962197" ignored="false" />
+    <file path="/script.js" changelist="f5ac94fb-36c4-4e93-b802-e6cfbbd99c28" time="1372122167446" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="17" selection-start="178" selection-end="178" vertical-scroll-proportion="0.69536424">
+            <state line="22" column="34" selection-start="457" selection-end="457" vertical-scroll-proportion="1.2913908">
               <folding />
             </state>
           </provider>
@@ -236,7 +236,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="178" selection-end="178" vertical-scroll-proportion="0.69536424">
+        <state line="22" column="34" selection-start="457" selection-end="457" vertical-scroll-proportion="1.2913908">
           <folding />
         </state>
       </provider>
